@@ -1,0 +1,9 @@
+[submodule "pipe_operator_example_elixir"]
+	path = pipe_operator_example_elixir
+	url = git@github.com:manusajith/pipe_operator_example_elixir.git
+[submodule "schizo_example_elixir"]
+	path = schizo_example_elixir
+	url = git@github.com:manusajith/schizo_example_elixir.git
+[submodule "process_example_elixir"]
+	path = process_example_elixir
+	url = git@github.com:manusajith/process_example_elixir.git

@@ -7,3 +7,9 @@
 [submodule "process_example_elixir"]
 	path = process_example_elixir
 	url = git@github.com:manusajith/process_example_elixir.git
+[submodule "finite_state_machine_example_elixir"]
+	path = finite_state_machine_example_elixir
+	url = git@github.com:manusajith/finite_state_machine_example_elixir.git
+[submodule "modules_example_elixir"]
+	path = modules_example_elixir
+	url = git@github.com:manusajith/modules_example_elixir.git
